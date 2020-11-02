@@ -7,3 +7,6 @@ Dataset: https://www.kaggle.com/smid80/weatherww2 - 'Summary of Weather.csv'
 
 ## 2. Polynomial Regression
 Dataset: https://www.kaggle.com/uciml/autompg-dataset - 'auto-mpg.csv'
+
+## 3. Logistic Regression
+Dataset: https://www.kaggle.com/heptapod/titanic - 'train_and_test2.csv'
