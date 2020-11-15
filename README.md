@@ -10,3 +10,6 @@ Dataset: https://www.kaggle.com/uciml/autompg-dataset - 'auto-mpg.csv'
 
 ## 3. Logistic Regression
 Dataset: https://www.kaggle.com/heptapod/titanic - 'train_and_test2.csv'
+
+## 4. Decision Trees
+Dataset: https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009 - 'winequality-red.csv'
