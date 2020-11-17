@@ -13,3 +13,6 @@ Dataset: https://www.kaggle.com/heptapod/titanic - 'train_and_test2.csv'
 
 ## 4. Decision Trees
 Dataset: https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009 - 'winequality-red.csv'
+
+## 5. k-Nearest Neighbors
+Dataset: https://www.kaggle.com/uciml/glass - 'glass.csv'
